@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
-title: [Camino]
+title: [Lightspeed]
 description: [The modern web, on your PowerPC Mac]
-baseurl: "/caminobrowser" # the subpath of your site, e.g. /blog
+baseurl: "/lightspeed" # the subpath of your site, e.g. /blog
 url: "https://retrosoftwarerepository.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github:
-  repository_url: https://www.github.com/RetroSoftwareRepository/Camino
+  repository_url: https://www.github.com/RetroSoftwareRepository/lightspeed
