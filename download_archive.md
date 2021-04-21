@@ -1,4 +1,4 @@
-<img src="CaminoLogo.PNG">Camino Download Archive
+ Download Archive
   ---------------------------------------------
   
   Camino 0.8.5
