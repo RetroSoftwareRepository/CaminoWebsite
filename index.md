@@ -1,4 +1,4 @@
-<img src="CaminoLogo2.PNG">
+
 <a href="https://github.com/RetroSoftwareRepository/Camino">Now on GitHub!</a>
 <a href="/caminobrowser/download_archive.md">Download Archive</a>
 <a href="https://github.com/RetroSoftwareRepository/CaminoLegacy">CaminoLegacy on GitHub</a>
