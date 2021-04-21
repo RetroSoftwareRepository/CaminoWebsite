@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 title: [Camino]
 description: [The modern web, on your PowerPC Mac]
 baseurl: "/caminobrowser" # the subpath of your site, e.g. /blog
