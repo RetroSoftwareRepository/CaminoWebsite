@@ -1,7 +1,0 @@
-theme: jekyll-theme-cayman
-title: [Lightspeed]
-description: [The modern web, on your PowerPC Mac]
-baseurl: "/lightspeed" # the subpath of your site, e.g. /blog
-url: "https://retrosoftwarerepository.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github:
-  repository_url: https://www.github.com/RetroSoftwareRepository/lightspeed
