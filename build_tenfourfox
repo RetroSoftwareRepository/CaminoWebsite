@@ -3,7 +3,7 @@
 set -euf
 
 macports_prefix=‘/opt/macports-tff’
-compile_dir=“${1:-/tmp}/Camino”
+compile_dir=“${1:-/tmp}/Lightspeed-master”
 branch_name=‘mybranch’
 
 export PATH=“$macports_prefix/bin:$macports_prefix/sbin:/bin:/sbin:/usr/bin:/usr/sbin”
@@ -34,7 +34,7 @@ replace_prefix() {
 }
 
 clone() {
-  git clone —depth=1 https://github.com/RetroSoftwareRepository/Camino”$compile_dir”
+  git clone —depth=1 https://github.com/RetroSoftwareRepository/Lightspeed”$compile_dir”
   cd “$compile_dir”
   git checkout -b “$branch_name”
   cd -
