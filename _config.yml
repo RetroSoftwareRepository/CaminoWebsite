@@ -5,4 +5,4 @@ url: "https://retrosoftwarerepository.github.io" # the base hostname & protocol 
 github:
   repository_url: https://www.github.com/RetroSoftwareRepository/lightspeed
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
