@@ -4,7 +4,7 @@ set -euf
 
 macports_prefix=‘/opt/macports-tff’
 compile_dir=“${1:-/tmp}/Lightspeed-master”
-branch_name=‘mybranch’
+branch_name=‘main-browser’
 
 export PATH=“$macports_prefix/bin:$macports_prefix/sbin:/bin:/sbin:/usr/bin:/usr/sbin”
 export COLUMNS=20
